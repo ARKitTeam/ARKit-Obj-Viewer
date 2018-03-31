@@ -2,7 +2,7 @@
 //  virtualObjectsManager.swift
 //  ARKitProject
 //
-//  Created by Ignacio Chiazzo on 2017-12-10.
+//  Created by jinxiaoming on 2017-12-10.
 //  Copyright © 2017 Apple. All rights reserved.
 //
 
